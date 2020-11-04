@@ -18,6 +18,10 @@
       }
     ]
   },
+  "sideEffects": [
+    "firebase.android.js",
+    "firebase.js"
+  ],
   "config": {
     "typingsproject": "demo-ng"
   },
